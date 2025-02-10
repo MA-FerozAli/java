@@ -4,7 +4,7 @@ package program;
 public class Program {
 
     public static void main(String[] args) {
-        System.out.println("hello ll");
+        System.out.println("hello github");
     }
     
 }
