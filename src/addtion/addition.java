@@ -1,4 +1,4 @@
-package addtion;
+dffpackage addtion;
 
 public class addition {
     
